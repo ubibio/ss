@@ -11,7 +11,7 @@
 
 	<script src="src/index.js">
 
-document.getElementById("app").innerHTML = 
+document.getElementById("app").innerHTML = `
 <h1>Hello Vanilla!</h1>
 <div>
   Wow! Netlify는 정말 대단한 서비스군요!!
